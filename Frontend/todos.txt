@@ -1,0 +1,7 @@
+Break all web pages into sections:
+for easy styling and infusions...
+Use togetherJS
+use defer $ async for speed
+Animations and styling(color) - the GTB bank style
+minify all css and js used..
+

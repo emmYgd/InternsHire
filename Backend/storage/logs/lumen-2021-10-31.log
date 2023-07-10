@@ -1,0 +1,12 @@
+[2021-10-31 12:38:06] local.ERROR: Class "Fruitcake\Cors\CorsServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Fruitcake\\Cors\\CorsServiceProvider\" not found at C:\\xampp\\htdocs\\InternsHire\\Backend\\vendor\\laravel\\lumen-framework\\src\\Application.php:223)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\InternsHire\\Backend\\bootstrap\\app.php(100): Laravel\\Lumen\\Application->register('Fruitcake\\\\Cors\\\\...')
+#1 C:\\xampp\\htdocs\\InternsHire\\Backend\\public\\index.php(16): require('C:\\\\xampp\\\\htdocs...')
+#2 {main}
+"} 
+[2021-10-31 12:41:48] local.ERROR: Class "Fruitcake\Cors\CorsServiceProvider" not found {"exception":"[object] (Error(code: 0): Class \"Fruitcake\\Cors\\CorsServiceProvider\" not found at C:\\xampp\\htdocs\\InternsHire\\Backend\\vendor\\laravel\\lumen-framework\\src\\Application.php:223)
+[stacktrace]
+#0 C:\\xampp\\htdocs\\InternsHire\\Backend\\bootstrap\\app.php(100): Laravel\\Lumen\\Application->register('Fruitcake\\\\Cors\\\\...')
+#1 C:\\xampp\\htdocs\\InternsHire\\Backend\\public\\index.php(16): require('C:\\\\xampp\\\\htdocs...')
+#2 {main}
+"} 

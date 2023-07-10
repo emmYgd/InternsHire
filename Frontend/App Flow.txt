@@ -1,0 +1,18 @@
+App flow: 
+Employer post job
+
+Intern Search for all jobs posted and apply for their choice... 
+
+Intern Apply for jobs - this depends on a lot of things:
+(1) if the Employer has set a test for this job role, the intern has to take the test before being seen by the employer for consideration.
+(2) if the Employer has not set any test, then the intern can apply for the job at will and will be seen by the employer
+(3) lastly, if the employer has outsourced to the admin, then, the admin will have to set the test and make phone chats on behalf of the employer.. 
+
+Employer View each job posted and the interns that applied to them(including their respective profile).
+
+Employer selects the best candidates (and send chat links to them (whatsapp chat)).
+Interns clicks the chat links and it leads them to whatsapp where they can chat employer interested in them.
+
+
+Other features -- the system should be able to crawl the web itself and look for internship opportunities form certain web pages..
+Discuss kopasidegigs.com
